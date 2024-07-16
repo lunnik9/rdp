@@ -1,11 +1,10 @@
 package main
 
 import (
+	"github.com/kulaginds/rdp-html5/handler"
 	"log"
 	"net/http"
 	_ "net/http/pprof"
-
-	"github.com/kulaginds/rdp-html5/internal/pkg/handler"
 )
 
 func main() {
