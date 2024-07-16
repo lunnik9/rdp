@@ -11,9 +11,9 @@ import (
 
 	"github.com/gorilla/websocket"
 
-	"github.com/kulaginds/rdp-html5/rdp"
-	"github.com/kulaginds/rdp-html5/rdp/fastpath"
-	"github.com/kulaginds/rdp-html5/rdp/pdu"
+	"github.com/lunnik9/rdp-html5/rdp"
+	"github.com/lunnik9/rdp-html5/rdp/fastpath"
+	"github.com/lunnik9/rdp-html5/rdp/pdu"
 )
 
 const (

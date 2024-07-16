@@ -6,7 +6,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/kulaginds/rdp-html5/rdp/utf16"
+	"github.com/lunnik9/rdp-html5/rdp/utf16"
 )
 
 const (

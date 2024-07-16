@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/kulaginds/rdp-html5/rdp/per"
+	"github.com/lunnik9/rdp-html5/rdp/per"
 )
 
 type DomainPDUApplication uint8

@@ -5,7 +5,7 @@ import (
 	"io"
 	"log"
 
-	"github.com/kulaginds/rdp-html5/rdp/per"
+	"github.com/lunnik9/rdp-html5/rdp/per"
 )
 
 type ClientAttachUserRequest struct{}

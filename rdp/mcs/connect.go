@@ -7,9 +7,9 @@ import (
 	"io"
 	"log"
 
-	"github.com/kulaginds/rdp-html5/rdp/asn1"
-	"github.com/kulaginds/rdp-html5/rdp/ber"
-	"github.com/kulaginds/rdp-html5/rdp/gcc"
+	"github.com/lunnik9/rdp-html5/rdp/asn1"
+	"github.com/lunnik9/rdp-html5/rdp/ber"
+	"github.com/lunnik9/rdp-html5/rdp/gcc"
 )
 
 type ConnectPDUApplication uint8

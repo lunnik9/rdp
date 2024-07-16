@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/kulaginds/rdp-html5/rdp/mcs"
+	"github.com/lunnik9/rdp-html5/rdp/mcs"
 )
 
 func TestServerDemandActivePDU_Deserialize(t *testing.T) {

@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/kulaginds/rdp-html5/rdp/fastpath"
-	"github.com/kulaginds/rdp-html5/rdp/pdu"
+	"github.com/lunnik9/rdp-html5/rdp/fastpath"
+	"github.com/lunnik9/rdp-html5/rdp/pdu"
 )
 
 func (c *client) GetUpdate() (*fastpath.UpdatePDU, error) {
