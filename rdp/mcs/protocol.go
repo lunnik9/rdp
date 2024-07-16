@@ -1,6 +1,6 @@
 package mcs
 
-import "github.com/lunnik9/rdp-html5/rdp/x224"
+import "github.com/lunnik9/rdp/rdp/x224"
 
 type Protocol struct {
 	x224Conn *x224.Protocol

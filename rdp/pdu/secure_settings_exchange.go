@@ -5,8 +5,8 @@ import (
 	"encoding/binary"
 	"strings"
 
-	"github.com/lunnik9/rdp-html5/rdp/headers"
-	"github.com/lunnik9/rdp-html5/rdp/utf16"
+	"github.com/lunnik9/rdp/rdp/headers"
+	"github.com/lunnik9/rdp/rdp/utf16"
 )
 
 type SystemTime struct {

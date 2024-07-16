@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/lunnik9/rdp-html5/rdp/ber"
+	"github.com/lunnik9/rdp/rdp/ber"
 )
 
 const (

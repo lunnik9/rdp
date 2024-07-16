@@ -6,11 +6,11 @@ import (
 	"net"
 	"time"
 
-	"github.com/lunnik9/rdp-html5/rdp/fastpath"
-	"github.com/lunnik9/rdp-html5/rdp/mcs"
-	"github.com/lunnik9/rdp-html5/rdp/pdu"
-	"github.com/lunnik9/rdp-html5/rdp/tpkt"
-	"github.com/lunnik9/rdp-html5/rdp/x224"
+	"github.com/lunnik9/rdp/rdp/fastpath"
+	"github.com/lunnik9/rdp/rdp/mcs"
+	"github.com/lunnik9/rdp/rdp/pdu"
+	"github.com/lunnik9/rdp/rdp/tpkt"
+	"github.com/lunnik9/rdp/rdp/x224"
 )
 
 type RemoteApp struct {

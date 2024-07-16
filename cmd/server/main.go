@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/lunnik9/rdp-html5/handler"
+	"github.com/lunnik9/rdp/handler"
 	"log"
 	"net/http"
 	_ "net/http/pprof"

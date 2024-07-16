@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/lunnik9/rdp-html5/rdp/pdu"
+	"github.com/lunnik9/rdp/rdp/pdu"
 )
 
 func (c *client) connectionFinalization() error {
